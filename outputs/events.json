@@ -1,0 +1,27 @@
+[
+  {
+    "time_sec": 1.0,
+    "track_id": 2,
+    "event_type": "intrusion"
+  },
+  {
+    "time_sec": 2.2,
+    "track_id": 1,
+    "event_type": "intrusion"
+  },
+  {
+    "time_sec": 3.933,
+    "track_id": 29,
+    "event_type": "intrusion"
+  },
+  {
+    "time_sec": 5.167,
+    "track_id": 55,
+    "event_type": "intrusion"
+  },
+  {
+    "time_sec": 6.3,
+    "track_id": 59,
+    "event_type": "intrusion"
+  }
+]
