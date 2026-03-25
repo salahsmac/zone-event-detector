@@ -6,6 +6,7 @@
 
 <img width="1001" height="521" alt="video-events-mvp result1" src="https://github.com/user-attachments/assets/5efecd9e-6bc5-45d1-9f9f-704c3328e243" />
 
+<img width="1347" height="833" alt="Screenshot 2026-03-25 181123" src="https://github.com/user-attachments/assets/22d240e0-f76c-427d-b22a-93babf59c428" />
 
 
 A compact computer vision project that detects and tracks people in video, then triggers **zone-based events** based on how long a person remains inside a defined polygon zone.
