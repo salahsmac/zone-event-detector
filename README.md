@@ -1,6 +1,9 @@
 # YOLOv8 + ByteTrack Zone Events (Intrusion & Loitering)
 **Creator:** Adil Salah
+
+
 <img width="873" height="468" alt="video-events-mvp result2" src="https://github.com/user-attachments/assets/e6633703-0977-401d-84ab-81b79e84427d" />
+
 <img width="1001" height="521" alt="video-events-mvp result1" src="https://github.com/user-attachments/assets/5efecd9e-6bc5-45d1-9f9f-704c3328e243" />
 
 
